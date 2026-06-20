@@ -13,7 +13,7 @@ This tool performs ARP scans to discover hosts, TCP SYN scans for ports, and gra
 ## Installation
 1.  Clone this repository:
     ```bash
-    https://github.com/Nyx-Developer/ip-scan.git
+    https://github.com/Ach-Tajul/ip-scan.git
     ```
 2.  Install required libraries:
     ```bash
