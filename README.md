@@ -1,4 +1,4 @@
-# IP SCAN TOOLS BY Nyx 
+# IP SCAN TOOLS  
 A powerful network scanner built with Python, Scapy, and Colorama.
 This tool performs ARP scans to discover hosts, TCP SYN scans for ports, and grabs banners/OS info.
 
